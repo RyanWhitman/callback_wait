@@ -14,7 +14,7 @@ var spinner = new jsMinTime();
 
 // Make AJAX call
 jQuery.ajax({
-    url: '/my-url/,
+    url: '/my-url',
     success: function(res) {
 
         // Do stuff with the response
