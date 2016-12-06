@@ -1,3 +1,14 @@
+/**
+ * jsMinTime is a JavaScript tool that grants the developer the ability to establish a minimum amount of time that is to elapse prior to executing a function.
+ *
+ * @package jsMinTime
+ * @copyright Copyright (c) 2016 Ryan Whitman (https://ryanwhitman.com)
+ * @license https://opensource.org/licenses/MIT MIT
+ * @version 1.0.0
+ * @see https://github.com/RyanWhitman/jsmintime
+ * @since 1.0.0
+ */
+
 var jsMinTime = function() {
 
 	// Upon instantiation, grab the time
