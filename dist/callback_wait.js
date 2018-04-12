@@ -4,7 +4,7 @@
  * @package Callback_Wait
  * @copyright Copyright (c) 2018 Ryan Whitman (https://ryanwhitman.com)
  * @license https://opensource.org/licenses/MIT MIT
- * @version 2.0.0
+ * @version 1.0.0
  * @see https://github.com/RyanWhitman/callback_wait
  */
 var Callback_Wait = function(millisecs_to_wait) {

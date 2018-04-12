@@ -4,4 +4,4 @@ Callback_Wait is a JavaScript tool that allows a developer to establish a minimu
 
 ## Current Version
 
-2.0.0
+1.0.0
