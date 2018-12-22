@@ -1,13 +1,13 @@
 /**
- * Callback_Wait is a JavaScript tool that allows a developer to establish a minimum amount of time that must elapse prior to executing one or more callbacks. This tool is especially useful for delaying a quick AJAX response that may otherwise cause a spinner to flash on/off, or something to that nature. This software is designed to be >=IE11 compatible.
+ * Delay.js is a JavaScript tool that allows a developer to establish a minimum amount of time that must elapse prior to executing one or more callbacks. This tool is especially useful for delaying a quick AJAX response that may otherwise cause a spinner to flash on/off, or something to that nature. This software is designed to be >=IE11 compatible.
  *
- * @package Callback_Wait
+ * @package Delay.js
  * @copyright Copyright (c) 2018 Ryan Whitman (https://ryanwhitman.com)
  * @license https://opensource.org/licenses/MIT MIT
  * @version 1.0.0
- * @see https://github.com/RyanWhitman/callback_wait
+ * @see https://github.com/RyanWhitman/delay.js
  */
-var Callback_Wait = function(millisecs_to_wait) {
+exports.Delay = function(millisecs_to_wait) {
 
 	// Store the start time.
 	var start_time = new Date().getTime();
