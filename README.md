@@ -4,4 +4,4 @@ Delay.js is a JavaScript tool that allows a developer to establish a minimum amo
 
 ## Current Version
 
-1.0.0
+1.0.1

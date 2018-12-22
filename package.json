@@ -1,6 +1,6 @@
 {
   "name": "@ryanwhitman/delay.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Delay.js is a JavaScript tool that allows a developer to establish a minimum amount of time that must pass prior to executing one or more callbacks. This tool is especially useful for delaying a quick AJAX response that may otherwise cause a spinner to flash on/off, or something to that nature.",
   "main": "/src/delay.js",
   "scripts": {

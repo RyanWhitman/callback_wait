@@ -4,7 +4,7 @@
  * @package Delay.js
  * @copyright Copyright (c) 2018 Ryan Whitman (https://ryanwhitman.com)
  * @license https://opensource.org/licenses/MIT MIT
- * @version 1.0.0
+ * @version 1.0.1
  * @see https://github.com/RyanWhitman/delay.js
  */
 module.exports = function(millisecs_to_wait) {
