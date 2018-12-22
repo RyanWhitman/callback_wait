@@ -7,7 +7,7 @@
  * @version 1.0.0
  * @see https://github.com/RyanWhitman/delay.js
  */
-module.exports = function(millisecs_to_wait) {
+var Delay = function(millisecs_to_wait) {
 
 	// Store the start time.
 	var start_time = new Date().getTime();
